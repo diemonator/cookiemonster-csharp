@@ -1,0 +1,19 @@
+vertices
+A 50 50 2
+B 300 100 1
+C 550 40 1
+D 70 250 0
+E 440 250 0
+F 700 250 3
+G 150 400 1
+H 400 400 2
+edges
+A B
+A D
+B C
+B F
+B E
+D G
+E H
+H D
+end
